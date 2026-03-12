@@ -93,28 +93,30 @@ body {
 
 /* ─── Theme toggle ───────────────────────────────────── */
 
-.theme-toggle {
-  background: none;
-  border: none;
-  cursor: pointer;
-  color: var(--subtle);
+.theme-toggle-fixed {
+  position: fixed;
+  top: 1.25rem;
+  right: 1.5rem;
+  z-index: 100;
   display: flex;
   align-items: center;
-  padding: 0.25rem;
-  border-radius: 4px;
-  transition: color var(--transition);
+  gap: 0.4rem;
+  padding: 0.35rem 0.65rem;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  cursor: pointer;
+  color: var(--muted);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.7rem;
+  transition: color var(--transition), border-color var(--transition);
 }
 
-.theme-toggle:hover {
+.theme-toggle-fixed:hover {
   color: var(--text);
+  border-color: var(--muted);
 }
 
-/* home page toggle: fixed top-right */
-.theme-toggle-home {
-  position: fixed;
-  top: 1.5rem;
-  right: 1.5rem;
-}
 
 /* ─── Header ─────────────────────────────────────────── */
 
@@ -242,25 +244,54 @@ body.home {
 }
 
 .home-content p {
+  font-size: 15px;
   color: var(--text-secondary);
   margin-top: 0.9rem;
 }
 
-.home-icons {
+.home-bottom-bar {
   display: flex;
-  gap: 0.85rem;
-  margin-top: 1.75rem;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border);
+  gap: 1rem;
+}
+
+.home-nav {
+  display: flex;
+  gap: 1.25rem;
   align-items: center;
 }
 
-.home-icons a {
+.home-nav a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.8rem;
+  transition: color var(--transition);
+}
+
+.home-nav a:hover {
+  color: var(--text);
+}
+
+.home-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding-left: 1rem;
+  border-left: 1px solid var(--border);
+}
+
+.home-actions a {
   color: var(--subtle);
   text-decoration: none;
   display: flex;
   transition: color var(--transition);
 }
 
-.home-icons a:hover {
+.home-actions a:hover {
   color: var(--text);
 }
 

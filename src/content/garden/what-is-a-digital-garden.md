@@ -1,24 +1,29 @@
 ---
-title: What is a digital garden?
+title: Commitment devices
 updated: 2026-03-11
 stage: budding
 description: Notes on the concept of digital gardens vs blogs.
 ---
 
-A digital garden is a different way to think about personal writing on the web.
+## Things I use and love 
 
-Unlike a blog — which is chronological and publishing-oriented — a garden is topical and process-oriented. Notes are meant to be tended over time, not published once and abandoned.
+### [Beeminder](https://www.beeminder.com/)
 
-## Stages
+You commit to a recurring goal, and if you miss a check-in they charge you money.
 
-Notes in this garden use three stages borrowed from [Maggie Appleton's framework](https://maggieappleton.com/garden-history):
+### [Opal](https://www.opal.so/)
 
-- **Seedling** — rough, exploratory, possibly incoherent
-- **Budding** — cleaned up and taking shape
-- **Evergreen** — relatively stable and complete
+Screentime blocking that actually works.
 
-## Why a garden?
 
-The key insight is that writing doesn't have to be finished to be shared. A garden lets you think in public without the pressure of publishing polished essays.
+---
 
-It's also a more honest model — ideas are interconnected and evolve, not isolated and fixed.
+## Things I want to try
+
+### [Stickk](https://www.stickk.com/)
+
+I think it's like Beeminder but more for one-time goals?
+
+### [Focusmate](https://www.focusmate.com/)
+
+Virtual coworking/body doubling.
