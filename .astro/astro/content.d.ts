@@ -164,6 +164,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"the-design-of-everyday-things.md": {
+	id: "the-design-of-everyday-things.md";
+  slug: "the-design-of-everyday-things";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 };
 
 	};
