@@ -1,7 +1,7 @@
 ---
 title: Commitment devices
 updated: 2026-03-11
-description: Notes on the concept of digital gardens vs blogs.
+description: How to get Future You to do stuff.
 ---
 
 ## Things I use and love 

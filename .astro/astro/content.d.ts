@@ -157,6 +157,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"finding-interesting-things-to-do-in-seattle.md": {
+	id: "finding-interesting-things-to-do-in-seattle.md";
+  slug: "finding-interesting-things-to-do-in-seattle";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 };
 
 	};
