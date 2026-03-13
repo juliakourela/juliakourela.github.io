@@ -476,21 +476,6 @@ article img {
     bottom: auto;
   }
 
-  header {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.75rem;
-  }
-
-  .header-right {
-    gap: 0.75rem;
-  }
-
-  nav a {
-    padding: 0.25rem 0.4rem;
-    font-size: 0.75rem;
-  }
-
   h1 { font-size: 1rem; }
 
   .post-list li {
