@@ -375,8 +375,15 @@ article {
   line-height: 1.8;
 }
 
-article h2,
+article h2 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 2.25rem;
+}
+
 article h3 {
+  font-size: 0.9rem;
+  font-weight: 600;
   margin-top: 2.25rem;
 }
 
@@ -446,34 +453,6 @@ article img {
   margin-top: 1.5rem;
 }
 
-/* ─── Garden stage badges ────────────────────────────── */
-
-.stage {
-  display: inline-block;
-  font-size: 0.72rem;
-  font-weight: 500;
-  padding: 0.2em 0.6em;
-  border-radius: 20px;
-  letter-spacing: 0.02em;
-  text-transform: lowercase;
-}
-
-.stage.evergreen { color: #166534; background: #dcfce7; }
-.stage.budding   { color: #92400e; background: #fef3c7; }
-.stage.seedling  { color: #4b5563; background: #f3f4f6; }
-
-:root[data-theme="dark"] .stage.evergreen,
-:root:not([data-theme="light"]) .stage.evergreen { color: #4ade80; background: #14532d; }
-:root[data-theme="dark"] .stage.budding,
-:root:not([data-theme="light"]) .stage.budding   { color: #fbbf24; background: #431407; }
-:root[data-theme="dark"] .stage.seedling,
-:root:not([data-theme="light"]) .stage.seedling  { color: #9ca3af; background: #1f2937; }
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .stage.evergreen { color: #4ade80; background: #14532d; }
-  :root:not([data-theme="light"]) .stage.budding   { color: #fbbf24; background: #431407; }
-  :root:not([data-theme="light"]) .stage.seedling  { color: #9ca3af; background: #1f2937; }
-}
 
 /* ─── Responsive ─────────────────────────────────────── */
 
@@ -485,6 +464,11 @@ article img {
 
   body.home {
     padding: 3rem 2rem;
+  }
+
+  .theme-toggle-fixed {
+    top: auto;
+    bottom: 1.25rem;
   }
 
   h1 { font-size: 1.4rem; }

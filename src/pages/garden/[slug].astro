@@ -17,13 +17,9 @@ const { Content } = await note.render();
   <article>
     <h1 class="post-title">{note.data.title}</h1>
     <div class="post-meta">
-      <span class={`stage ${note.data.stage}`}>{note.data.stage}</span>
-      <span>
-        Last updated{' '}
-        <time datetime={note.data.updated.toISOString()}>
-          {note.data.updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-        </time>
-      </span>
+      <time datetime={note.data.updated.toISOString()}>
+        Last updated {note.data.updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+      </time>
     </div>
     <Content />
   </article>

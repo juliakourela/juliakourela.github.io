@@ -1,7 +1,6 @@
 ---
 title: Commitment devices
 updated: 2026-03-11
-stage: budding
 description: Notes on the concept of digital gardens vs blogs.
 ---
 

@@ -14,7 +14,6 @@ const garden = defineCollection({
   schema: z.object({
     title: z.string(),
     updated: z.date(),
-    stage: z.enum(['seedling', 'budding', 'evergreen']).default('seedling'),
     description: z.string().optional(),
   }),
 });

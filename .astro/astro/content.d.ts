@@ -150,9 +150,9 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "garden": {
-"what-is-a-digital-garden.md": {
-	id: "what-is-a-digital-garden.md";
-  slug: "what-is-a-digital-garden";
+"commitment-devices.md": {
+	id: "commitment-devices.md";
+  slug: "commitment-devices";
   body: string;
   collection: "garden";
   data: InferEntrySchema<"garden">
