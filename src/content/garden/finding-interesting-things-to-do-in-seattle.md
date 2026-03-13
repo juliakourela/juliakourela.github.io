@@ -14,6 +14,8 @@ description: Cool events and where to find them.
 
 - [Stranger Suggests](https://www.thestranger.com/collections/21583868/stranger-suggests)
 
+- [Do206](https://do206.com/)
+
 - [Capitol Hill Seattle](https://www.capitolhillseattle.com/calendar/#/)
 
 ## General aggregator Instagram pages
@@ -37,3 +39,11 @@ description: Cool events and where to find them.
 - [Northwest Film Forum](https://nwfilmforum.org/)
 
 - [NWTheatre](https://www.nwtheatre.org/calendar/)
+
+## Music
+
+- [Seattle Noise](https://www.seattlenoise.org/)
+
+- [Showlist Seattle](https://seattle.showlists.net/)
+
+- [19hz](https://19hz.info/eventlisting_Seattle.php)
