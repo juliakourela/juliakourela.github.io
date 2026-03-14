@@ -164,6 +164,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"gemini-protocol.md": {
+	id: "gemini-protocol.md";
+  slug: "gemini-protocol";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "the-design-of-everyday-things.md": {
 	id: "the-design-of-everyday-things.md";
   slug: "the-design-of-everyday-things";
