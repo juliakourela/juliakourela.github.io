@@ -1,5 +1,6 @@
 ---
 title: Book - The Design of Everyday Things
+created: 2026-03-13
 updated: 2026-03-13
 description: Notes on _The Design of Everyday Things_ by Don Norman.
 ---

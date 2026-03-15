@@ -13,6 +13,7 @@ const garden = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
+    created: z.date().optional(),
     updated: z.date(),
     description: z.string().optional(),
   }),

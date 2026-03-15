@@ -17,6 +17,12 @@ const { Content } = await note.render();
   <article>
     <h1 class="post-title">{note.data.title}</h1>
     <div class="post-meta">
+      {note.data.created && (
+        <time datetime={note.data.created.toISOString()}>
+          Created {note.data.created.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}
+        </time>
+      )}
+      {note.data.created && <span>·</span>}
       <time datetime={note.data.updated.toISOString()}>
         Last updated {note.data.updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}
       </time>

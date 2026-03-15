@@ -1,5 +1,6 @@
 ---
 title: Finding interesting things to do in Seattle
+created: 2026-03-12
 updated: 2026-03-12
 description: Cool events and where to find them.
 ---

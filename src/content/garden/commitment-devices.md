@@ -1,5 +1,6 @@
 ---
 title: Commitment devices
+created: 2026-03-11
 updated: 2026-03-11
 description: How to get Future You to do stuff.
 ---
