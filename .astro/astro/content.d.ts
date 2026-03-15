@@ -150,6 +150,13 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "garden": {
+"assurance-game.md": {
+	id: "assurance-game.md";
+  slug: "assurance-game";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "commitment-devices.md": {
 	id: "commitment-devices.md";
   slug: "commitment-devices";
@@ -167,6 +174,13 @@ declare module 'astro:content' {
 "gemini-protocol.md": {
 	id: "gemini-protocol.md";
   slug: "gemini-protocol";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
+"hawk-dove.md": {
+	id: "hawk-dove.md";
+  slug: "hawk-dove";
   body: string;
   collection: "garden";
   data: InferEntrySchema<"garden">
@@ -192,6 +206,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"nash-equilibrium.md": {
+	id: "nash-equilibrium.md";
+  slug: "nash-equilibrium";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "phonetics.md": {
 	id: "phonetics.md";
   slug: "phonetics";
@@ -202,6 +223,20 @@ declare module 'astro:content' {
 "phonology.md": {
 	id: "phonology.md";
   slug: "phonology";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
+"prisoners-dilemma.md": {
+	id: "prisoners-dilemma.md";
+  slug: "prisoners-dilemma";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
+"stag-hunt.md": {
+	id: "stag-hunt.md";
+  slug: "stag-hunt";
   body: string;
   collection: "garden";
   data: InferEntrySchema<"garden">
