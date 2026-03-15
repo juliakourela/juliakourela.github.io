@@ -171,6 +171,48 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"historical-and-comparative-linguistics.md": {
+	id: "historical-and-comparative-linguistics.md";
+  slug: "historical-and-comparative-linguistics";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
+"linguistics.md": {
+	id: "linguistics.md";
+  slug: "linguistics";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
+"morphology.md": {
+	id: "morphology.md";
+  slug: "morphology";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
+"phonetics.md": {
+	id: "phonetics.md";
+  slug: "phonetics";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
+"phonology.md": {
+	id: "phonology.md";
+  slug: "phonology";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
+"syntax.md": {
+	id: "syntax.md";
+  slug: "syntax";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "the-design-of-everyday-things.md": {
 	id: "the-design-of-everyday-things.md";
   slug: "the-design-of-everyday-things";
