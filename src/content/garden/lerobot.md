@@ -10,4 +10,5 @@ description: .
 Relevant(?) links:
 - [official LeRobot repo](https://github.com/huggingface/lerobot)
 - ["Robot Learning: a Tutorial" (arXiv)](https://arxiv.org/abs/2510.12403)
-- [Configuring SO-101 for Lerobot (HuggingFace)](https://huggingface.co/docs/lerobot/en/so101)
+- [Configuring SO-101 for LeRobot (HuggingFace)](https://huggingface.co/docs/lerobot/en/so101)
+- [LeRobot robotics course by HuggingFace (repo)](https://github.com/huggingface/robotics-course)
