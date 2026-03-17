@@ -213,6 +213,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"music-discovery-sites.md": {
+	id: "music-discovery-sites.md";
+  slug: "music-discovery-sites";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "nash-equilibrium.md": {
 	id: "nash-equilibrium.md";
   slug: "nash-equilibrium";
