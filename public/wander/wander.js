@@ -1,0 +1,45 @@
+window.wander = {
+  // Other Wander consoles that visitors can reach from my console.
+  consoles: [
+    'https://susam.net/wander/',
+  ],
+  // Websites and pages I recommend to other wanderers.
+  pages: [
+    'https://juleskourelakos.com/',
+    'https://clarkesworldmagazine.com/',
+    'https://www.curatecurator.com/',
+    'https://neonaut.neocities.org/',
+    'https://ubu.com/',
+    'https://damaged.bleu255.com/',
+    'https://permacomputing.net/',
+    'https://textfiles.vistech.net/',
+    'https://chotrin.org/',
+    'https://everynoise.com/',
+    'https://href.cool',
+    'https://drawingbooks.org/',
+    'https://luminarium.org/',
+    'https://www.pulpmags.org/',
+    'https://www.nasa.gov/ebooks/',
+    'https://monoskop.org/Monoskop',
+    'https://cristobal.space/',
+    'https://burntangel.neocities.org/links',
+    'https://similarminds.com/personality_tests.html',
+    'https://www.survivorlibrary.com/',
+    'https://www.esotericarchives.com/',
+    'https://library.memoryoftheworld.org/',
+    'https://ciechanow.ski/',
+    'https://wiki.chadnet.org/',
+    'https://wdl.mcdaniel.edu/',
+    'https://www.sherwoodforestzinelibrary.org/',
+    'https://solar.lowtechmagazine.com/',
+    'https://how.complexsystems.fail/',
+    'https://www.syllabi.directory/',
+    'https://syllabusproject.org/archives/',
+    'https://www.marysialewandowska.com/waa/',
+    'https://fairygore.neocities.org/',
+    'https://a-website-is-a-room.net/',
+    'https://startat.nitallica.org/',
+    'https://cari.institute/'
+
+  ],
+}
