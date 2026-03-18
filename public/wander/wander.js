@@ -44,7 +44,16 @@ window.wander = {
     'https://onlinebooks.library.upenn.edu/',
     'https://indieseek.xyz/',
     'https://www.dangertesting.com/',
-    'https://ask.metafilter.com/333800/Please-Help-Me-Find-the-Very-Best-Strange-Trippy-Short-Films-and-Videos'
+    'https://ask.metafilter.com/333800/Please-Help-Me-Find-the-Very-Best-Strange-Trippy-Short-Films-and-Videos',
+    'https://bactra.org/notebooks/',
+    'https://make-everything-ok.com/',
+    'http://trafficcone.com/field-guide.html',
+    'https://adamapples.blogspot.com/',
+    'https://villagiocosa.neocities.org/',
+    'https://www.lostartoflogarithms.com',
+    'https://detondev.com/outskirts.html',
+    'https://www.punk.ist/',
+    'https://earlyradiohistory.us/'
 
   ],
 }
