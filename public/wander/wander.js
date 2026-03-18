@@ -1,7 +1,8 @@
 window.wander = {
   // Other Wander consoles that visitors can reach from my console.
   consoles: [
-    'https://susam.net/wander/',
+    'https://juleskourelakos.com/wander/',
+    'https://susam.net/wander/'
   ],
   // Websites and pages I recommend to other wanderers.
   pages: [
@@ -34,6 +35,13 @@ window.wander = {
     'https://solar.lowtechmagazine.com/',
     'https://how.complexsystems.fail/',
     'https://www.syllabi.directory/',
+    'https://www.benkuhn.net/',
+    'https://guzey.com/',
+    'https://qntm.org/',
+    'https://maggieappleton.com/garden',
+    'https://pedestrianobservations.com/',
+    'https://geminiprotocol.net/',
+    'https://ncase.me/trust/',
     'https://syllabusproject.org/archives/',
     'https://www.marysialewandowska.com/waa/',
     'https://fairygore.neocities.org/',
