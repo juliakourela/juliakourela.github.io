@@ -192,6 +192,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"interesting-free-ebooks-pdfs.md": {
+	id: "interesting-free-ebooks-pdfs.md";
+  slug: "interesting-free-ebooks-pdfs";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "lerobot.md": {
 	id: "lerobot.md";
   slug: "lerobot";
