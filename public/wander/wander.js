@@ -2,12 +2,14 @@ window.wander = {
   // Other Wander consoles that visitors can reach from my console.
   consoles: [
     'https://juleskourelakos.com/wander/',
-    'https://susam.net/wander/'
+    'https://susam.net/wander/',
+    'https://dahlstrand.net/wander/',
+    'https://www.siddharthagolu.com/wander/',
+    'https://wander.liontask.dev/'
   ],
   // Websites and pages I recommend to other wanderers.
   pages: [
     'https://juleskourelakos.com/',
-    'https://clarkesworldmagazine.com/',
     'https://www.curatecurator.com/',
     'https://neonaut.neocities.org/',
     'https://ubu.com/',
@@ -18,7 +20,6 @@ window.wander = {
     'https://drawingbooks.org/',
     'https://luminarium.org/',
     'https://www.pulpmags.org/',
-    'https://monoskop.org/Monoskop',
     'https://cristobal.space/',
     'https://burntangel.neocities.org/links',
     'https://similarminds.com/personality_tests.html',
@@ -42,6 +43,10 @@ window.wander = {
     'https://fairygore.neocities.org/',
     'https://a-website-is-a-room.net/',
     'https://startat.nitallica.org/',
+    'https://onlinebooks.library.upenn.edu/',
+    'https://indieseek.xyz/',
+    'https://www.dangertesting.com/',
+    'https://ask.metafilter.com/333800/Please-Help-Me-Find-the-Very-Best-Strange-Trippy-Short-Films-and-Videos'
 
   ],
 }
