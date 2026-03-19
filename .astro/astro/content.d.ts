@@ -255,6 +255,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"sleep-cycles.md": {
+	id: "sleep-cycles.md";
+  slug: "sleep-cycles";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "stag-hunt.md": {
 	id: "stag-hunt.md";
   slug: "stag-hunt";

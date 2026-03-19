@@ -9,7 +9,9 @@ window.wander = {
     'https://hugo0.com/wander',
     'https://astandke.com/wander/',
     'https://mkprc.xyz/wander',
-    'https://www.davidtran.me/wander/'
+    'https://www.davidtran.me/wander/',
+    'https://www.acdw.net/wander/',
+    'https://huffstler.github.io/wander/'
 
   ],
   // Websites and pages I recommend to other wanderers.
@@ -78,7 +80,8 @@ window.wander = {
     'https://arkmsworld.neocities.org/',
     'https://www2.iath.virginia.edu/elab/elab.html',
     'https://based.cooking/',
-    'https://11foot8.com/'
+    'https://11foot8.com/',
+    'https://apolloarchive.com/'
 
   ],
 }
