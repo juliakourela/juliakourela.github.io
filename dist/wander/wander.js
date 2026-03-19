@@ -5,7 +5,12 @@ window.wander = {
     'https://susam.net/wander/',
     'https://dahlstrand.net/wander/',
     'https://www.siddharthagolu.com/wander/',
-    'https://wander.liontask.dev/'
+    'https://wander.liontask.dev/',
+    'https://hugo0.com/wander',
+    'https://astandke.com/wander/',
+    'https://mkprc.xyz/wander',
+    'https://www.davidtran.me/wander/'
+
   ],
   // Websites and pages I recommend to other wanderers.
   pages: [
@@ -53,7 +58,27 @@ window.wander = {
     'https://www.lostartoflogarithms.com',
     'https://detondev.com/outskirts.html',
     'https://www.punk.ist/',
-    'https://earlyradiohistory.us/'
+    'https://adarkroom.doublespeakgames.com/',
+    'https://candybox2.github.io/',
+    'https://99percentinvisible.org/episode/ten-thousand-years/',
+    'https://earlyradiohistory.us/',
+    'https://www.ifarchive.org/if-archive/games/competition2016/16%20Ways%20to%20Kill%20a%20Vampire%20at%20McDonalds/Vampire%20%2843%29.html',
+    'https://chnm.gmu.edu/digitalhistory/',
+    'https://lockpickingforensics.com/',
+    'https://www.monorails.org/',
+    'https://web.archive.org/web/20230601114446/http://www.florilegium.org/',
+    'https://dhitma.neocities.org/',
+    'https://cuberule.com/',
+    'https://www.cryptomuseum.com/',
+    'https://www.officemuseum.com/',
+    'https://tangiblemediacollection.com/',
+    'https://eclectic-library.neocities.org/',
+    'https://plaintextsports.com/',
+    'https://www.mobilephonehistory.co.uk/',
+    'https://arkmsworld.neocities.org/',
+    'https://www2.iath.virginia.edu/elab/elab.html',
+    'https://based.cooking/',
+    'https://11foot8.com/'
 
   ],
 }
