@@ -213,6 +213,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"llm-smell.md": {
+	id: "llm-smell.md";
+  slug: "llm-smell";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "morphology.md": {
 	id: "morphology.md";
   slug: "morphology";
