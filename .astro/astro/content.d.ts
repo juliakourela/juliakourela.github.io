@@ -269,6 +269,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"social-atmospherics.md": {
+	id: "social-atmospherics.md";
+  slug: "social-atmospherics";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "stag-hunt.md": {
 	id: "stag-hunt.md";
   slug: "stag-hunt";
