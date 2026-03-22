@@ -157,6 +157,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"buy-it-for-life.md": {
+	id: "buy-it-for-life.md";
+  slug: "buy-it-for-life";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "commitment-devices.md": {
 	id: "commitment-devices.md";
   slug: "commitment-devices";
