@@ -185,6 +185,13 @@ declare module 'astro:content' {
   collection: "garden";
   data: InferEntrySchema<"garden">
 } & { render(): Render[".md"] };
+"gendlin-focusing.md": {
+	id: "gendlin-focusing.md";
+  slug: "gendlin-focusing";
+  body: string;
+  collection: "garden";
+  data: InferEntrySchema<"garden">
+} & { render(): Render[".md"] };
 "hawk-dove.md": {
 	id: "hawk-dove.md";
   slug: "hawk-dove";
